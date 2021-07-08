@@ -10,7 +10,7 @@
 - 💬 Ask me about Python, ML
 - 📫 How to reach me: through my mail deekshithakusupati249@gmail.com
 - 😄 Pronouns: you can give me one
-- ⚡ Fun fact: I can work without music
+- ⚡ Fun fact: I can work without music..
 
 
 
