@@ -2,15 +2,24 @@
 
 
 [Linkedin](linkedin.com/in/deekshitha-kusupati-0a87a11a5)
+
 [gmail](deekshithakusupati249@gmail.com)
+
 - 🔭 I’m currently working on Machine Learning project
+
 - 🌱 I’m currently learning Data Science and Machine Learning
+
 - 👯 I’m looking to collaborate on AI and Data Science project
+
 - 🤔 I’m looking for help with Data Science
+
 - 💬 Ask me about Python, ML
+
 - 📫 How to reach me: through my mail deekshithakusupati249@gmail.com
+ 
 - 😄 Pronouns: you can give me one
-- ⚡ Fun fact: I can work without music..
+
+- ⚡ Fun fact: I can work without music
 
 
 
